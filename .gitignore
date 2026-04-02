@@ -1,0 +1,15 @@
+# Python (Archivos temporales de ejecución)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# VS Code (Configuraciones locales)
+.vscode/
+
+# Excel / Temporales de Windows
+~$*
+.DS_Store
+
